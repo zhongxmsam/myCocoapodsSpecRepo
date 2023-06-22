@@ -1,0 +1,2 @@
+# myCocoapodsSpecRepo
+myCocoapodsSpecRepo
